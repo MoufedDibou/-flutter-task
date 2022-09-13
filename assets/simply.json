@@ -1,0 +1,22 @@
+{
+    "languages": [
+      {
+        "id": "1",
+        "name": "english",
+        "description": "start",
+        "image": "https://icons.iconarchive.com/icons/custom-icon-design/all-country-flag/256/England-Flag-icon.png"
+      },
+      {
+        "id": "2",
+        "name": "arabic",
+        "description": "ابدأ",
+        "image":"https://icons.iconarchive.com/icons/wikipedia/flags/256/SA-Saudi-Arabia-Flag-icon.png"
+      },
+      {
+        "id": "3",
+        "name": "pharisi",
+        "description": "شروع کنید",
+        "image":"https://icons.iconarchive.com/icons/hopstarter/square-flags/256/Pakistan-Flag-icon.png"
+      }
+    ]
+  }
